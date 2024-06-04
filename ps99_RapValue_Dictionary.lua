@@ -1,5 +1,8 @@
 return {
     Misc = {
+        ["Secret Key Upper Half"] = "3,860",
+        ["Seashell"] = "4,120",
+        ["Bucket O' Magic"] = "30,900",
         ['Tech Key Lower Half'] = "748",
         ['Index Token'] = 0,
         ['Tech Spinny Wheel Ticket'] = "9,370",
@@ -51,12 +54,12 @@ return {
         ['Magic Coin Jar'] = "4",
         ['Magic Shard'] = "11,200",
         ['Bluesteel Shovel'] = 0,
-        ['Secret Key'] = "63,400",
+        ['Secret Key'] = "47,500",
         ['Basic Coin Jar'] = "28",
         ['Toy Bone'] = "56",
         ['Giant Coin Jar'] = "65",
         ['Squeaky Toy'] = "71",
-        ['Crystal Key'] = "27,100",
+        ['Crystal Key'] = "23,300",
         ['Rainbow Swirl'] = "34",
         ['Magnet Flag'] = "31",
         ['Party Box'] = "751",
