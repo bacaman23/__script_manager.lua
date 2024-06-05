@@ -1,5 +1,7 @@
 return {
     Misc = {
+        ["Void Key Upper Half"] = "45,500",
+        ["Large Enchant Bundle"] = "1,150",
         ["Secret Key Upper Half"] = "3,860",
         ["Seashell"] = "4,120",
         ["Bucket O' Magic"] = "30,900",
