@@ -137,7 +137,7 @@ return {
         },
         ['Blast'] = {
             ["Tier_1"] = "945",
-        }
+        },
         ['Fortune'] = {
             ["Tier_1"] = "4,140",
         },
@@ -146,7 +146,7 @@ return {
         },
         ['Tap Teamwork'] = {
             ["Tier_1"] = "35",
-        }
+        },
         ['Coins'] = {
             ["Tier_1"] = "9",
             ["Tier_2"] = "63",
@@ -208,7 +208,7 @@ return {
         },
         ['Midas Touch'] = {
             ["Tier_1"] = "865",
-        }
+        },
     },
     Potions = {
         ['Coins'] = {
