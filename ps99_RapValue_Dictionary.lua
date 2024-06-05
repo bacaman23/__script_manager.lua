@@ -132,11 +132,21 @@ return {
             ["Tier_8"] = "146,000",
             ["Tier_9"] = "1,160,000",
         },
-        ['Lightning'] = "1,020",
-        ['Blast'] = "945",
-        ['Fortune'] = "4,140",
-        ['Happy Pets'] = "147",
-        ['Tap Teamwork'] = "35",
+        ['Lightning'] = {
+            ["Tier_1"] = "1,020",
+        },
+        ['Blast'] = {
+            ["Tier_1"] = "945",
+        }
+        ['Fortune'] = {
+            ["Tier_1"] = "4,140",
+        },
+        ['Happy Pets'] = {
+            ["Tier_1"] = "147",
+        },
+        ['Tap Teamwork'] = {
+            ["Tier_1"] = "35",
+        }
         ['Coins'] = {
             ["Tier_1"] = "9",
             ["Tier_2"] = "63",
@@ -148,8 +158,12 @@ return {
             ["Tier_8"] = "28,100",
             ["Tier_9"] = "466,000",
         },
-        ['Shiny Hunter'] = "3,010,000",
-        ['Explosive'] = "1,230",
+        ['Shiny Hunter'] = {
+            ["Tier_1"] = "3,010,000",
+        },
+        ['Explosive'] = {
+            ["Tier_1"] = "1,230",
+        },
         ['Tap Power'] = {
             ["Tier_1"] = "7",
             ["Tier_2"] = "83",
@@ -161,8 +175,12 @@ return {
             ["Tier_8"] = "7,410",
             ["Tier_9"] = "227,000",
         },
-        ['Huge Hunter'] = "19,900,000",
-        ['Large Taps'] = "408",
+        ['Huge Hunter'] = {
+            ["Tier_1"] = "19,900,000",
+        },
+        ['Large Taps'] = {
+            ["Tier_1"] = "408",
+        },
         ['Diamonds'] = {
             ["Tier_1"] = "8",
             ["Tier_2"] = "90",
@@ -174,15 +192,23 @@ return {
             ["Tier_8"] = "48,300",
             ["Tier_9"] = "466,000",
         },
-        ['Boss Chest Mimic'] = "245,000",
+        ['Boss Chest Mimic'] = {
+            ["Tier_1"] = "245,000",
+        },
         ['Magnet'] = {
             ["Tier_1"] = "76",
             ["Tier_2"] = "76",
             ["Tier_3"] = "12",
         },
-        ['Exotic Pet'] = "4,180",
-        ['Super Lightning'] = "153,000",
-        ['Midas Touch'] = "865",
+        ['Exotic Pet'] = {
+            ["Tier_1"] = "4,180,
+        },
+        ['Super Lightning'] = {
+            ["Tier_1"] = "153,000",
+        },
+        ['Midas Touch'] = {
+            ["Tier_1"] = "865",
+        }
     },
     Potions = {
         ['Coins'] = {
@@ -249,11 +275,13 @@ return {
             ["Tier_5"] = "499",
             ["Tier_6"] = "1,120",
             ["Tier_7"] = "1,910",
-            ["Tier_8"] = "31,500",
+            ["Tier_8"] = "31,500,
             ["Tier_9"] = "67,100",
             ["Tier_10"] = "164,000",
         },
-        ["The Cocktail"] = "103,000",
+        ["The Cocktail"] = {
+            ["Tier_1"] = "103,000",
+        },
     },
     Pets = {
         ["Huge Night Terror Cat"] = {
