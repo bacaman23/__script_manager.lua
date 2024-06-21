@@ -4,24 +4,24 @@ return {
         ["Void Key Upper Half"] = "45,500",
         ["Large Enchant Bundle"] = "1,150",
         ["Secret Key Upper Half"] = "3,860",
-        ["Seashell"] = "4,120",
-        ["Bucket O' Magic"] = "30,900",
+        ["Seashell"] = "438",
+        ["Bucket O' Magic"] = "59,500",
         ['Tech Key Lower Half'] = "748",
         ['Index Token'] = 0,
         ['Tech Spinny Wheel Ticket'] = "9,370",
-        ['Large Gift Bag'] = "11,300",
-        ['Charm Stone'] = "25,500",
+        ['Large Gift Bag'] = "11,600",
+        ['Charm Stone'] = "31,100",
         ['Daycare Slot Voucher'] = "8,870",
         ['Enchant Essence'] = "131",
-        ['Mini Lucky Block'] = "1,530",
+        ['Mini Lucky Block'] = "1,460",
         ['Snorkel'] = 0,
-        ['Void Key'] = "90,800",
+        ['Void Key'] = "88,100",
         ['TNT'] = "3,150",
-        ['Mini Chest'] = "36,400",
+        ['Mini Chest'] = "26,700",
         ['Normal Shovel'] = 0,
         ['Crystal Key Lower Half'] = "532",
         ['Quest Medal'] = 0,
-        ['Gift Bag'] = "3,160",
+        ['Gift Bag'] = "3,810",
         ['Rainbow Mini Chest'] = "796,000",
         ['Slingshot'] = 0,
         ['Hasty Flag'] = "18",
@@ -35,15 +35,15 @@ return {
         ['Toy Bundle'] = "498",
         ['Nametag'] = "3,150",
         ['Rainbow Flag'] = "619",
-        ['Spinny Wheel Ticket'] = "8,890",
+        ['Spinny Wheel Ticket'] = "7,180",
         ['Crystal Key Upper Half'] = "8,670",
-        ['Treasure Hideout Key'] = "22,100",
+        ['Treasure Hideout Key'] = "23,900",
         ['Diamonds Flag'] = "80",
         ['Coins Flag'] = "68",
-        ['Nightmare Fuel'] = "465,000",
+        ['Nightmare Fuel'] = "600,000",
         ['Comet'] = "641",
         ['Charm Chisel'] = "45,800",
-        ['Mini Pinata'] = "34,400",
+        ['Mini Pinata'] = "55,700",
         ['Tech Key Upper Half'] = "21,500",
         ['Flimsy Shovel'] = 0,
         ['Breakable Sprinkler'] = "1,510",
@@ -53,16 +53,16 @@ return {
         ['Tech Key'] = "58,400",
         ['Treasure Hideout Key Lower Half'] = "4",
         ['Void Spinny Wheel Ticket'] = "45,700",
-        ['Golden Shovel'] = "81,700",
+        ['Golden Shovel'] = "38,400",
         ['Magic Coin Jar'] = "4",
         ['Magic Shard'] = "11,200",
         ['Bluesteel Shovel'] = 0,
-        ['Secret Key'] = "47,500",
+        ['Secret Key'] = "38,300",
         ['Basic Coin Jar'] = "28",
         ['Toy Bone'] = "56",
         ['Giant Coin Jar'] = "65",
         ['Squeaky Toy'] = "71",
-        ['Crystal Key'] = "23,300",
+        ['Crystal Key'] = "17,200",
         ['Rainbow Swirl'] = "34",
         ['Magnet Flag'] = "31",
         ['Party Box'] = "751",
@@ -76,7 +76,7 @@ return {
         ['Void Key Lower Half'] = "4,650",
         ['Enchant Bundle'] = "915",
         ['Secret Key Lower Half'] = "895",
-        ['Booth Slot Voucher'] = "53,800",
+        ['Booth Slot Voucher'] = "25,200",
     },
     Books = {
         ['Treasure Hunter'] = {
@@ -286,21 +286,21 @@ return {
     },
     Pets = {
         ["Huge Night Terror Cat"] = {
-            Reg = "88,300,000",
-            Gold = "114,000,000"
+            Reg = "99,600,000",
+            Gold = "123,000,000"
         },
         ["Huge Propeller Cat"] = {
-            Rainbow = "317,000,000",
+            Rainbow = "336,000,000",
         },
         ['Huge Marshmallow Agony'] = {
-            Reg = "93,500,000"
+            Reg = "96,400,000"
         },
         ['Huge Wizard Westie'] = {
-            Gold = "85,800,000"
+            Gold = "89,600,000"
         },
     },
     Lootbox = {
-        ["Hype Egg"] = "713,000",
-        ["Global Event Gift"] = "2,390,000"
+        ["Hype Egg"] = "687,000",
+        ["Global Event Gift"] = "2,240,000"
     }
 }
