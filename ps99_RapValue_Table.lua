@@ -1,5 +1,6 @@
 return {
     Misc = {
+        ["Prison Key"] = "22,900",
         ["Hacker Key"] = "42,200",
         ["Void Key Upper Half"] = "45,500",
         ["Large Enchant Bundle"] = "1,150",
@@ -194,7 +195,10 @@ return {
             ["Tier_9"] = "466,000",
         },
         ['Boss Chest Mimic'] = {
-            ["Tier_1"] = "245,000,000",
+            ["Tier_1"] = "192,000,000",
+        },
+        ['Hacker Key Hunter'] = {
+            ["Tier_1"] = "2,400,000",
         },
         ['Magnet'] = {
             ["Tier_1"] = "76",
@@ -301,6 +305,7 @@ return {
     },
     Lootbox = {
         ["Hype Egg"] = "687,000",
-        ["Global Event Gift"] = "2,240,000"
+        ["Global Event Gift"] = "2,240,000",
+        ["Rave Gift"] = "104,000",
     }
 }
