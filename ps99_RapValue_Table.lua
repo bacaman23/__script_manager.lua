@@ -1,5 +1,7 @@
 return {
     Misc = {
+        ["Lucky Tile"] = "130,000",
+        ["Ultra Lucky Tile"] = "812,000",
         ["Prison Key"] = "22,900",
         ["Hacker Key"] = "42,200",
         ["Void Key Upper Half"] = "45,500",
