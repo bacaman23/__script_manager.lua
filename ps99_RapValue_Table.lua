@@ -1,5 +1,6 @@
 return {
     Misc = {
+        ["Rave Upgrade Ticket"] = "72,100",
         ["Lucky Tile"] = "130,000",
         ["Ultra Lucky Tile"] = "812,000",
         ["Prison Key"] = "22,900",
@@ -292,17 +293,20 @@ return {
     },
     Pets = {
         ["Huge Night Terror Cat"] = {
-            Reg = "99,600,000",
-            Gold = "123,000,000"
+            Reg = "94,100,000",
+            Gold = "115,000,000"
         },
         ["Huge Propeller Cat"] = {
-            Rainbow = "336,000,000",
+            Rainbow = "355,000,000",
         },
         ['Huge Marshmallow Agony'] = {
-            Reg = "96,400,000"
+            Reg = "87,500,000"
         },
         ['Huge Wizard Westie'] = {
-            Gold = "89,600,000"
+            Gold = "74,500,000"
+        },
+        ["Huge Holographic Cat"] = {
+            Reg = "64,100,000",
         },
     },
     Lootbox = {
