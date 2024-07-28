@@ -1,5 +1,7 @@
 return {
     Misc = {
+        ["Golden Prison Key"] = "198,000",
+        ["Millionaire Bucks"] = "378",
         ["Rave Upgrade Ticket"] = "72,100",
         ["Lucky Tile"] = "130,000",
         ["Ultra Lucky Tile"] = "812,000",
@@ -292,6 +294,9 @@ return {
         },
     },
     Pets = {
+        ["Huge Dino Dog"] = {
+            Reg = "134,000,000",
+        },
         ["Huge Night Terror Cat"] = {
             Reg = "94,100,000",
             Gold = "115,000,000"
@@ -313,5 +318,6 @@ return {
         ["Hype Egg"] = "687,000",
         ["Global Event Gift"] = "2,240,000",
         ["Rave Gift"] = "104,000",
+        ["Dino Gift"] = "573,000",
     }
 }
