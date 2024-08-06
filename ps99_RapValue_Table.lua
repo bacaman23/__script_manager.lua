@@ -1,5 +1,7 @@
 return {
     Misc = {
+        ["Dino Lab Keycard"] = "293,000",
+        ["Basic Item Jar"] = "58,3000",
         ["Golden Prison Key"] = "198,000",
         ["Millionaire Bucks"] = "378",
         ["Rave Upgrade Ticket"] = "72,100",
@@ -315,9 +317,10 @@ return {
         },
     },
     Lootbox = {
-        ["Hype Egg"] = "687,000",
+        ["Hype Egg"] = "522,000",
         ["Global Event Gift"] = "2,240,000",
-        ["Rave Gift"] = "104,000",
-        ["Dino Gift"] = "573,000",
+        ["Rave Gift"] = "189,000",
+        ["Dino Gift"] = "100,000",
+        ["Meteor Gift"] = "88,500",
     }
 }
