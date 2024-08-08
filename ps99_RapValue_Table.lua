@@ -315,12 +315,18 @@ return {
         ["Huge Holographic Cat"] = {
             Reg = "64,100,000",
         },
+        ["Huge Egg Dino"] = {
+            Gold = "60,000,000",
+        },
+        ["Huge Raptor"] = {
+            Reg = "109,000,000",
+        },
     },
     Lootbox = {
-        ["Hype Egg"] = "522,000",
+        ["Hype Egg"] = "529,000",
         ["Global Event Gift"] = "2,240,000",
-        ["Rave Gift"] = "189,000",
-        ["Dino Gift"] = "100,000",
-        ["Meteor Gift"] = "88,500",
+        ["Rave Gift"] = "191,000",
+        ["Dino Gift"] = "140,000",
+        ["Meteor Gift"] = "129,000",
     }
 }
