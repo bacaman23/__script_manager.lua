@@ -1,5 +1,9 @@
 return {
     Misc = {
+        ["Mega Lucky Dice II"] = "0",
+        ["Lucky Dice II"] = "0",
+        ["Lucky Dice"] = "0",
+        ["Lucky Dice III"] = "0",
         ["Dino Lab Keycard"] = "293,000",
         ["Basic Item Jar"] = "58,3000",
         ["Golden Prison Key"] = "198,000",
@@ -321,12 +325,27 @@ return {
         ["Huge Raptor"] = {
             Reg = "109,000,000",
         },
+        ["Huge Abyssal Jellyfish"] = {
+            Reg = "37,100,000",
+            Gold = "39,900,000",
+            Rainbow = "98,000,000",
+        },
+        ["Huge Corrupt Butterfly"] = {
+            Reg = "39,700,000",
+            Rainbow = "118,000,000",
+        },
+        ["Huge Mechatronic Robot"] = {
+            Reg = "35,200,000",
+        },
+        ["Huge Temporal Owl"] = {
+            Rainbow = "100,000,000",
+        },
     },
     Lootbox = {
-        ["Hype Egg"] = "529,000",
+        ["Hype Egg"] = "321,000",
         ["Global Event Gift"] = "2,240,000",
         ["Rave Gift"] = "191,000",
-        ["Dino Gift"] = "140,000",
+        ["Dino Gift"] = "165,000",
         ["Meteor Gift"] = "129,000",
     }
 }
