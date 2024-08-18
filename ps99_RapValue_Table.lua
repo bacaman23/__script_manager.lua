@@ -1,5 +1,6 @@
 return {
     Misc = {
+        ["Fire Dice"] = "0",
         ["Mega Lucky Dice II"] = "0",
         ["Lucky Dice II"] = "0",
         ["Lucky Dice"] = "0",
@@ -194,6 +195,9 @@ return {
         ['Large Taps'] = {
             ["Tier_1"] = "408",
         },
+        ["Fruity"] = {
+            ["Tier_1"] = "62,600",
+        },
         ['Diamonds'] = {
             ["Tier_1"] = "8",
             ["Tier_2"] = "90",
@@ -338,7 +342,11 @@ return {
             Reg = "35,200,000",
         },
         ["Huge Temporal Owl"] = {
+            Reg = "40,300,000",
             Rainbow = "100,000,000",
+        },
+        ["Huge Shuriken Corgi"] = {
+            Gold = "52,200,000",
         },
     },
     Lootbox = {
