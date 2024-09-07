@@ -1,6 +1,6 @@
 return {
     Misc = {
-        ["Treasure Hideout Upper Half"] = "1,420",
+        ["Treasure Hideout Key Upper Half"] = "1,420",
         ["Bucket O' Paint"] = "0",
         ["Fire Dice"] = "0",
         ["Mega Lucky Dice II"] = "0",
@@ -361,6 +361,7 @@ return {
         },
         ["Huge Shuriken Corgi"] = {
             Reg = "37,500,000",
+            Gold = "41,100,000",
         },
     },
     Lootbox = {
