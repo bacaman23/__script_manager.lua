@@ -1,5 +1,7 @@
 return {
     Misc = {
+        ["Treasure Hideout Upper Half"] = "1,420",
+        ["Bucket O' Paint"] = "0",
         ["Fire Dice"] = "0",
         ["Mega Lucky Dice II"] = "0",
         ["Lucky Dice II"] = "0",
@@ -229,6 +231,9 @@ return {
         ['Midas Touch'] = {
             ["Tier_1"] = "865",
         },
+        ['Chest Breaker'] = {
+            ["Tier_1"] = "13,500,000",
+        },
     },
     Potions = {
         ['Coins'] = {
@@ -348,12 +353,22 @@ return {
         ["Huge Shuriken Corgi"] = {
             Gold = "52,200,000",
         },
+        ["Huge Chroma Tiger"] = {
+            Reg = "67,300,000",
+        },
+        ["Huge Nuclear Wild Dog"] = {
+            Reg = "37,000,000",
+        },
+        ["Huge Shuriken Corgi"] = {
+            Reg = "37,500,000",
+        },
     },
     Lootbox = {
-        ["Hype Egg"] = "321,000",
+        ["Hype Egg"] = "460,000",
         ["Global Event Gift"] = "2,240,000",
         ["Rave Gift"] = "191,000",
-        ["Dino Gift"] = "165,000",
+        ["Dino Gift"] = "199,000",
         ["Meteor Gift"] = "129,000",
+        ["Color Gift"] = "137,000",
     }
 }
